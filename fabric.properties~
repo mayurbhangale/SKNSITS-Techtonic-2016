@@ -1,0 +1,4 @@
+#Contains API Secret used to validate your application. Commit to internal source control; avoid making secret public.
+#Thu Dec 17 17:19:16 IST 2015
+apiSecret=1cd84b0e1628c649f0705d3e7015e3a21a63a94ef0e6807f236cc6cce58ef77c
+twitterPluginId=567268e8ad709eaf38000031
